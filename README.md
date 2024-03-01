@@ -1,4 +1,4 @@
-# bike_proyekAnanlisisData
+# Proyek Analisis Data Dicoding : Bike Sharing Dataset
 
 ## Setup environment
 conda create --name main-ds python=3.9
