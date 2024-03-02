@@ -1,9 +1,11 @@
 # Proyek Analisis Data Dicoding : Bike Sharing Dataset
 
 ## Setup environment
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.10.2
 conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+pip install pandas matplotlib seaborn jupyter streamlit
 
 ## Run steamlit app
+cd submission
+cd dashboard
 streamlit run dashboard.py
